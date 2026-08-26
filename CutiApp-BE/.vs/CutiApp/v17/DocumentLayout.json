@@ -1,0 +1,339 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Training\\CutiApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|c:\\training\\cutiapp\\dtos\\createleaverequestrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|solutionrelative:dtos\\createleaverequestrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|c:\\training\\cutiapp\\dtos\\leaverequestdetailresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|solutionrelative:dtos\\leaverequestdetailresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|c:\\training\\cutiapp\\services\\leaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|solutionrelative:services\\leaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|c:\\training\\cutiapp\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|solutionrelative:repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|c:\\training\\cutiapp\\controllers\\leaverequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|solutionrelative:controllers\\leaverequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|c:\\training\\cutiapp\\services\\ileaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|solutionrelative:services\\ileaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|c:\\training\\cutiapp\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|c:\\training\\cutiapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|c:\\training\\cutiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|c:\\training\\cutiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|c:\\training\\cutiapp\\controllers\\leavebalancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|solutionrelative:controllers\\leavebalancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|c:\\training\\cutiapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|c:\\training\\cutiapp\\dtos\\updateleaverequestrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|solutionrelative:dtos\\updateleaverequestrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|c:\\training\\cutiapp\\services\\leavebalanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|solutionrelative:services\\leavebalanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|c:\\training\\cutiapp\\models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|solutionrelative:models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|c:\\training\\cutiapp\\data\\cutiappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|solutionrelative:data\\cutiappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|c:\\training\\cutiapp\\services\\ileavebalanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|solutionrelative:services\\ileavebalanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|c:\\training\\cutiapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|c:\\training\\cutiapp\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D414ED3D-7CE0-4D76-AB75-24916F26B21C}|CutiApp.csproj|solutionrelative:services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Training\\CutiApp\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repository.cs",
+              "ToolTip": "C:\\Training\\CutiApp\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Repositories\\Repository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwFUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T07:25:15.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Training\\CutiApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Training\\CutiApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwBsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T05:49:51.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CutiAppDbContext.cs",
+              "DocumentMoniker": "C:\\Training\\CutiApp\\Data\\CutiAppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\CutiAppDbContext.cs",
+              "ToolTip": "C:\\Training\\CutiApp\\Data\\CutiAppDbContext.cs",
+              "RelativeToolTip": "Data\\CutiAppDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T05:38:53.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LeaveRequest.cs",
+              "DocumentMoniker": "C:\\Training\\CutiApp\\Models\\LeaveRequest.cs",
+              "RelativeDocumentMoniker": "Models\\LeaveRequest.cs",
+              "ToolTip": "C:\\Training\\CutiApp\\Models\\LeaveRequest.cs",
+              "RelativeToolTip": "Models\\LeaveRequest.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T05:33:49.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateLeaveRequestRequests.cs",
+              "DocumentMoniker": "C:\\Training\\CutiApp\\DTOs\\UpdateLeaveRequestRequests.cs",
+              "RelativeDocumentMoniker": "DTOs\\UpdateLeaveRequestRequests.cs",
+              "ToolTip": "C:\\Training\\CutiApp\\DTOs\\UpdateLeaveRequestRequests.cs",
+              "RelativeToolTip": "DTOs\\UpdateLeaveRequestRequests.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T04:34:17.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Training\\CutiApp\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\Training\\CutiApp\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T04:26:24.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LeaveRequestDetailResponse.cs",
+              "DocumentMoniker": "C:\\Training\\CutiApp\\DTOs\\LeaveRequestDetailResponse.cs",
+              "RelativeDocumentMoniker": "DTOs\\LeaveRequestDetailResponse.cs",
+              "ToolTip": "C:\\Training\\CutiApp\\DTOs\\LeaveRequestDetailResponse.cs",
+              "RelativeToolTip": "DTOs\\LeaveRequestDetailResponse.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T04:21:07.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LeaveRequestController.cs",
+              "DocumentMoniker": "C:\\Training\\CutiApp\\Controllers\\LeaveRequestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LeaveRequestController.cs",
+              "ToolTip": "C:\\Training\\CutiApp\\Controllers\\LeaveRequestController.cs",
+              "RelativeToolTip": "Controllers\\LeaveRequestController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T04:09:44.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LeaveBalanceController.cs",
+              "DocumentMoniker": "C:\\Training\\CutiApp\\Controllers\\LeaveBalanceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LeaveBalanceController.cs",
+              "ToolTip": "C:\\Training\\CutiApp\\Controllers\\LeaveBalanceController.cs",
+              "RelativeToolTip": "Controllers\\LeaveBalanceController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T04:09:39.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Training\\CutiApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Training\\CutiApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T04:09:31.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateLeaveRequestRequests.cs",
+              "DocumentMoniker": "C:\\Training\\CutiApp\\DTOs\\CreateLeaveRequestRequests.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateLeaveRequestRequests.cs",
+              "ToolTip": "C:\\Training\\CutiApp\\DTOs\\CreateLeaveRequestRequests.cs",
+              "RelativeToolTip": "DTOs\\CreateLeaveRequestRequests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T04:02:49.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ILeaveBalanceService.cs",
+              "DocumentMoniker": "C:\\Training\\CutiApp\\Services\\ILeaveBalanceService.cs",
+              "RelativeDocumentMoniker": "Services\\ILeaveBalanceService.cs",
+              "ToolTip": "C:\\Training\\CutiApp\\Services\\ILeaveBalanceService.cs",
+              "RelativeToolTip": "Services\\ILeaveBalanceService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T02:58:14.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LeaveBalanceService.cs",
+              "DocumentMoniker": "C:\\Training\\CutiApp\\Services\\LeaveBalanceService.cs",
+              "RelativeDocumentMoniker": "Services\\LeaveBalanceService.cs",
+              "ToolTip": "C:\\Training\\CutiApp\\Services\\LeaveBalanceService.cs",
+              "RelativeToolTip": "Services\\LeaveBalanceService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T02:54:53.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILeaveRequestService.cs",
+              "DocumentMoniker": "C:\\Training\\CutiApp\\Services\\ILeaveRequestService.cs",
+              "RelativeDocumentMoniker": "Services\\ILeaveRequestService.cs",
+              "ToolTip": "C:\\Training\\CutiApp\\Services\\ILeaveRequestService.cs",
+              "RelativeToolTip": "Services\\ILeaveRequestService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAvwAkAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T02:58:08.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LeaveRequestService.cs",
+              "DocumentMoniker": "C:\\Training\\CutiApp\\Services\\LeaveRequestService.cs",
+              "RelativeDocumentMoniker": "Services\\LeaveRequestService.cs",
+              "ToolTip": "C:\\Training\\CutiApp\\Services\\LeaveRequestService.cs",
+              "RelativeToolTip": "Services\\LeaveRequestService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwCAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T02:54:46.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Training\\CutiApp\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\IUserService.cs",
+              "ToolTip": "C:\\Training\\CutiApp\\Services\\IUserService.cs",
+              "RelativeToolTip": "Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T02:58:02.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Training\\CutiApp\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Training\\CutiApp\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T02:54:38.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Training\\CutiApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Training\\CutiApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-26T02:22:15.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Training\\CutiApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Training\\CutiApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwDoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T02:22:12.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
